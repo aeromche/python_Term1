@@ -1,0 +1,101 @@
+restaurant,country,city,dish,price_usd,servings,description,calories
+Brazilian Grill #1,Brazil,São Paulo,Feijoada,20.45,261,"Stew of beans with pork, beef, and sausage, served with rice.",816
+Persian Delight #2,Iran,Tehran,Chelo Kebab,12.9,341,"Grilled kebabs served with saffron rice, butter, and grilled tomato.",341
+Brazilian Grill #3,Brazil,São Paulo,Feijoada,21.91,213,"Stew of beans with pork, beef, and sausage, served with rice.",702
+Sushi Zen #4,Japan,Tokyo,Sushi Platter,24.94,394,"Assorted fresh sushi with tuna, salmon, shrimp, and seasonal fish.",877
+Burger Hub #5,USA,New York,Cheeseburger,13.24,145,"Juicy beef patty with cheese, lettuce, tomato, and pickles.",1126
+Tandoori Palace #6,India,Delhi,Chicken Tikka Masala,15.82,379,Marinated chicken cooked in creamy tomato sauce with spices.,352
+London Pub #7,UK,London,Fish and Chips,13.17,197,Deep-fried battered fish with fries and tartar sauce.,377
+Tandoori Palace #8,India,Delhi,Chicken Tikka Masala,13.76,302,Marinated chicken cooked in creamy tomato sauce with spices.,1020
+Brazilian Grill #9,Brazil,São Paulo,Feijoada,20.11,273,"Stew of beans with pork, beef, and sausage, served with rice.",1177
+El Asador #10,Argentina,Buenos Aires,Bife de Chorizo,23.29,227,Grilled sirloin steak served with chimichurri sauce.,326
+Tandoori Palace #11,India,Delhi,Chicken Tikka Masala,14.95,363,Marinated chicken cooked in creamy tomato sauce with spices.,281
+Seoul Kitchen #12,South Korea,Seoul,Bibimbap,14.43,283,"Mixed rice with vegetables, beef, egg, and chili pepper paste.",478
+Burger Hub #13,USA,New York,Cheeseburger,10.9,95,"Juicy beef patty with cheese, lettuce, tomato, and pickles.",891
+Burger Hub #14,USA,New York,Cheeseburger,12.58,387,"Juicy beef patty with cheese, lettuce, tomato, and pickles.",993
+Seoul Kitchen #15,South Korea,Seoul,Bibimbap,14.18,286,"Mixed rice with vegetables, beef, egg, and chili pepper paste.",1119
+Tandoori Palace #16,India,Delhi,Chicken Tikka Masala,16.08,190,Marinated chicken cooked in creamy tomato sauce with spices.,875
+Casa de Tapas #17,Spain,Barcelona,Paella,26.21,337,"Traditional rice dish with seafood, chicken, and saffron.",579
+El Asador #18,Argentina,Buenos Aires,Bife de Chorizo,22.84,81,Grilled sirloin steak served with chimichurri sauce.,592
+Le Gourmet #19,France,Paris,Coq au Vin,23.95,254,"Classic French dish of chicken braised with wine, mushrooms, and garlic.",768
+Kebabistan #20,Turkey,Istanbul,Doner Kebab,11.04,297,"Slow-cooked meat shaved from a rotating spit, served in bread.",778
+Burger Hub #21,USA,New York,Cheeseburger,11.0,369,"Juicy beef patty with cheese, lettuce, tomato, and pickles.",564
+Persian Delight #22,Iran,Tehran,Chelo Kebab,15.57,379,"Grilled kebabs served with saffron rice, butter, and grilled tomato.",555
+Persian Delight #23,Iran,Tehran,Chelo Kebab,16.3,313,"Grilled kebabs served with saffron rice, butter, and grilled tomato.",1146
+Thai Orchid #24,Thailand,Bangkok,Pad Thai,10.68,133,"Stir-fried rice noodles with shrimp, peanuts, egg, and tamarind sauce.",760
+Bavarian Bierhall #25,Germany,Munich,Bratwurst with Sauerkraut,17.7,168,German sausage with tangy sauerkraut and mustard.,481
+London Pub #26,UK,London,Fish and Chips,14.26,163,Deep-fried battered fish with fries and tartar sauce.,353
+El Asador #27,Argentina,Buenos Aires,Bife de Chorizo,18.77,317,Grilled sirloin steak served with chimichurri sauce.,584
+Casa de Tapas #28,Spain,Barcelona,Paella,23.88,163,"Traditional rice dish with seafood, chicken, and saffron.",536
+Russian Table #29,Russia,Moscow,Beef Stroganoff,16.61,245,Sautéed beef in creamy sauce with mushrooms and onions.,1043
+Sushi Zen #30,Japan,Tokyo,Sushi Platter,26.72,148,"Assorted fresh sushi with tuna, salmon, shrimp, and seasonal fish.",454
+Greek Taverna #31,Greece,Athens,Moussaka,15.0,224,"Layered eggplant, potatoes, minced meat, and béchamel sauce.",759
+Persian Delight #32,Iran,Tehran,Chelo Kebab,16.07,190,"Grilled kebabs served with saffron rice, butter, and grilled tomato.",1110
+Brazilian Grill #33,Brazil,São Paulo,Feijoada,22.79,100,"Stew of beans with pork, beef, and sausage, served with rice.",370
+Le Gourmet #34,France,Paris,Coq au Vin,29.99,287,"Classic French dish of chicken braised with wine, mushrooms, and garlic.",899
+Thai Orchid #35,Thailand,Bangkok,Pad Thai,10.48,307,"Stir-fried rice noodles with shrimp, peanuts, egg, and tamarind sauce.",680
+Burger Hub #36,USA,New York,Cheeseburger,14.31,262,"Juicy beef patty with cheese, lettuce, tomato, and pickles.",638
+Greek Taverna #37,Greece,Athens,Moussaka,15.05,162,"Layered eggplant, potatoes, minced meat, and béchamel sauce.",1023
+Greek Taverna #38,Greece,Athens,Moussaka,18.84,365,"Layered eggplant, potatoes, minced meat, and béchamel sauce.",742
+Burger Hub #39,USA,New York,Cheeseburger,14.02,277,"Juicy beef patty with cheese, lettuce, tomato, and pickles.",331
+Dragon Wok #40,China,Beijing,Kung Pao Chicken,16.12,312,"Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",397
+Sushi Zen #41,Japan,Tokyo,Sushi Platter,34.79,265,"Assorted fresh sushi with tuna, salmon, shrimp, and seasonal fish.",1024
+Seoul Kitchen #42,South Korea,Seoul,Bibimbap,14.05,168,"Mixed rice with vegetables, beef, egg, and chili pepper paste.",1170
+Tandoori Palace #43,India,Delhi,Chicken Tikka Masala,16.29,366,Marinated chicken cooked in creamy tomato sauce with spices.,511
+Le Gourmet #44,France,Paris,Coq au Vin,26.49,225,"Classic French dish of chicken braised with wine, mushrooms, and garlic.",845
+Dragon Wok #45,China,Beijing,Kung Pao Chicken,14.63,229,"Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",846
+Russian Table #46,Russia,Moscow,Beef Stroganoff,16.82,263,Sautéed beef in creamy sauce with mushrooms and onions.,1124
+Burger Hub #47,USA,New York,Cheeseburger,10.17,98,"Juicy beef patty with cheese, lettuce, tomato, and pickles.",379
+Le Gourmet #48,France,Paris,Coq au Vin,27.71,93,"Classic French dish of chicken braised with wine, mushrooms, and garlic.",988
+Thai Orchid #49,Thailand,Bangkok,Pad Thai,10.63,338,"Stir-fried rice noodles with shrimp, peanuts, egg, and tamarind sauce.",690
+Russian Table #50,Russia,Moscow,Beef Stroganoff,16.35,141,Sautéed beef in creamy sauce with mushrooms and onions.,896
+London Pub #51,UK,London,Fish and Chips,17.08,277,Deep-fried battered fish with fries and tartar sauce.,641
+Casa de Tapas #52,Spain,Barcelona,Paella,32.1,366,"Traditional rice dish with seafood, chicken, and saffron.",589
+Sushi Zen #53,Japan,Tokyo,Sushi Platter,27.61,341,"Assorted fresh sushi with tuna, salmon, shrimp, and seasonal fish.",1060
+Moroccan Bazaar #54,Morocco,Marrakech,Tagine,14.87,140,"Slow-cooked stew with lamb, vegetables, and spices, cooked in a clay pot.",1007
+El Asador #55,Argentina,Buenos Aires,Bife de Chorizo,21.08,148,Grilled sirloin steak served with chimichurri sauce.,600
+Mezze House #56,Lebanon,Beirut,Hummus with Pita,6.87,215,"Creamy chickpea dip with tahini, olive oil, lemon, served with pita.",550
+Tandoori Palace #57,India,Delhi,Chicken Tikka Masala,13.11,298,Marinated chicken cooked in creamy tomato sauce with spices.,653
+Bavarian Bierhall #58,Germany,Munich,Bratwurst with Sauerkraut,16.69,342,German sausage with tangy sauerkraut and mustard.,918
+Kebabistan #59,Turkey,Istanbul,Doner Kebab,11.41,114,"Slow-cooked meat shaved from a rotating spit, served in bread.",519
+Seoul Kitchen #60,South Korea,Seoul,Bibimbap,13.8,259,"Mixed rice with vegetables, beef, egg, and chili pepper paste.",533
+Greek Taverna #61,Greece,Athens,Moussaka,15.51,103,"Layered eggplant, potatoes, minced meat, and béchamel sauce.",615
+Bavarian Bierhall #62,Germany,Munich,Bratwurst with Sauerkraut,17.15,145,German sausage with tangy sauerkraut and mustard.,694
+La Trattoria #63,Italy,Rome,Spaghetti Carbonara,19.21,105,"Pasta with eggs, cheese, pancetta, and black pepper.",1094
+Greek Taverna #64,Greece,Athens,Moussaka,14.78,145,"Layered eggplant, potatoes, minced meat, and béchamel sauce.",485
+London Pub #65,UK,London,Fish and Chips,16.84,238,Deep-fried battered fish with fries and tartar sauce.,436
+Bavarian Bierhall #66,Germany,Munich,Bratwurst with Sauerkraut,18.45,326,German sausage with tangy sauerkraut and mustard.,279
+Dragon Wok #67,China,Beijing,Kung Pao Chicken,14.5,81,"Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",313
+Greek Taverna #68,Greece,Athens,Moussaka,13.74,218,"Layered eggplant, potatoes, minced meat, and béchamel sauce.",947
+Brazilian Grill #69,Brazil,São Paulo,Feijoada,16.53,81,"Stew of beans with pork, beef, and sausage, served with rice.",469
+Greek Taverna #70,Greece,Athens,Moussaka,14.68,292,"Layered eggplant, potatoes, minced meat, and béchamel sauce.",774
+El Asador #71,Argentina,Buenos Aires,Bife de Chorizo,21.83,98,Grilled sirloin steak served with chimichurri sauce.,997
+Casa de Tapas #72,Spain,Barcelona,Paella,27.01,197,"Traditional rice dish with seafood, chicken, and saffron.",1079
+Le Gourmet #73,France,Paris,Coq au Vin,25.26,199,"Classic French dish of chicken braised with wine, mushrooms, and garlic.",355
+London Pub #74,UK,London,Fish and Chips,12.93,233,Deep-fried battered fish with fries and tartar sauce.,321
+Mezze House #75,Lebanon,Beirut,Hummus with Pita,8.68,104,"Creamy chickpea dip with tahini, olive oil, lemon, served with pita.",1103
+Mezze House #76,Lebanon,Beirut,Hummus with Pita,8.01,314,"Creamy chickpea dip with tahini, olive oil, lemon, served with pita.",1179
+Dragon Wok #77,China,Beijing,Kung Pao Chicken,15.2,269,"Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",549
+Mezze House #78,Lebanon,Beirut,Hummus with Pita,8.1,180,"Creamy chickpea dip with tahini, olive oil, lemon, served with pita.",284
+Russian Table #79,Russia,Moscow,Beef Stroganoff,16.82,395,Sautéed beef in creamy sauce with mushrooms and onions.,635
+Tandoori Palace #80,India,Delhi,Chicken Tikka Masala,13.13,105,Marinated chicken cooked in creamy tomato sauce with spices.,767
+Russian Table #81,Russia,Moscow,Beef Stroganoff,15.95,126,Sautéed beef in creamy sauce with mushrooms and onions.,1122
+Seoul Kitchen #82,South Korea,Seoul,Bibimbap,16.47,131,"Mixed rice with vegetables, beef, egg, and chili pepper paste.",991
+Casa de Tapas #83,Spain,Barcelona,Paella,30.0,327,"Traditional rice dish with seafood, chicken, and saffron.",551
+Le Gourmet #84,France,Paris,Coq au Vin,20.13,397,"Classic French dish of chicken braised with wine, mushrooms, and garlic.",604
+Dragon Wok #85,China,Beijing,Kung Pao Chicken,15.58,303,"Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",707
+Moroccan Bazaar #86,Morocco,Marrakech,Tagine,15.35,132,"Slow-cooked stew with lamb, vegetables, and spices, cooked in a clay pot.",795
+El Asador #87,Argentina,Buenos Aires,Bife de Chorizo,23.54,389,Grilled sirloin steak served with chimichurri sauce.,914
+Kebabistan #88,Turkey,Istanbul,Doner Kebab,10.2,346,"Slow-cooked meat shaved from a rotating spit, served in bread.",414
+Bavarian Bierhall #89,Germany,Munich,Bratwurst with Sauerkraut,18.19,361,German sausage with tangy sauerkraut and mustard.,766
+Burger Hub #90,USA,New York,Cheeseburger,13.62,319,"Juicy beef patty with cheese, lettuce, tomato, and pickles.",1179
+Greek Taverna #91,Greece,Athens,Moussaka,17.74,285,"Layered eggplant, potatoes, minced meat, and béchamel sauce.",982
+Moroccan Bazaar #92,Morocco,Marrakech,Tagine,19.93,329,"Slow-cooked stew with lamb, vegetables, and spices, cooked in a clay pot.",596
+Dragon Wok #93,China,Beijing,Kung Pao Chicken,14.06,282,"Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",1094
+Brazilian Grill #94,Brazil,São Paulo,Feijoada,23.88,151,"Stew of beans with pork, beef, and sausage, served with rice.",714
+Le Gourmet #95,France,Paris,Coq au Vin,26.82,365,"Classic French dish of chicken braised with wine, mushrooms, and garlic.",1093
+Seoul Kitchen #96,South Korea,Seoul,Bibimbap,15.21,121,"Mixed rice with vegetables, beef, egg, and chili pepper paste.",1047
+Russian Table #97,Russia,Moscow,Beef Stroganoff,17.88,314,Sautéed beef in creamy sauce with mushrooms and onions.,484
+El Asador #98,Argentina,Buenos Aires,Bife de Chorizo,18.86,337,Grilled sirloin steak served with chimichurri sauce.,845
+Thai Orchid #99,Thailand,Bangkok,Pad Thai,15.22,259,"Stir-fried rice noodles with shrimp, peanuts, egg, and tamarind sauce.",905
+Casa de Tapas #100,Spain,Barcelona,Paella,28.77,332,"Traditional rice dish with seafood, chicken, and saffron.",333
